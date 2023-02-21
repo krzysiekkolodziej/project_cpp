@@ -1,0 +1,8 @@
+﻿  animal.cpp
+  main.cpp
+C:\Users\krzys\Desktop\Wolf_Island\Wolf_Island\main.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\krzys\Desktop\Wolf_Island\Wolf_Island\main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  map.cpp
+C:\Users\krzys\Desktop\Wolf_Island\Wolf_Island\map.cpp(113,23): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  Wolf_Island.vcxproj -> C:\Users\krzys\Desktop\Wolf_Island\x64\Debug\Wolf_Island.exe
